@@ -25,7 +25,7 @@
 
 > Kodezi is an AI Dev-tool platform providing tools to maximize programming productivity. Our first product consists of an autocorrect for programmers.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/69927b250b094e38b73998cc0e12b7a8" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[![Demo](demo.gif)](https://www.loom.com/share/69927b250b094e38b73998cc0e12b7a8)
 
 Kodezi for VS Code uses Large Language Models trained on a Massive Code Dataset to
 
@@ -79,6 +79,9 @@ Will generate Code from your Natural Language Instructions. [Learn more](https:/
 ## FAQ
 - Something not working the way you hoped? Kodezi support is always happy to help. Feel free to contact us anytime at support@kodezi.com
 
+## Community 
+- Join our Community [Discord](https://discord.gg/kodezi) 
+
 ---
 
 ### More information
@@ -86,5 +89,6 @@ Will generate Code from your Natural Language Instructions. [Learn more](https:/
 - [Website](https://kodezi.com/)
 - [Twitter](https://twitter.com/kodezihq)
 - [Youtube](https://www.youtube.com/kodezi)
+- [Discord](https://discord.gg/kodezi)
 
 _Built by the Kodezi team_
