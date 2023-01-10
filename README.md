@@ -25,7 +25,7 @@
 
 > Kodezi is an AI Dev-tool platform providing tools to maximize programming productivity. Our first product consists of an autocorrect for programmers.
 
-[![Demo](demo.gif)](https://www.loom.com/share/69927b250b094e38b73998cc0e12b7a8)
+[![Demo](demo1.gif)](https://www.loom.com/share/69927b250b094e38b73998cc0e12b7a8)
 
 Kodezi for VS Code uses Large Language Models trained on a Massive Code Dataset to
 
