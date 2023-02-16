@@ -1,7 +1,3 @@
-> **Warning**
-> #### Notice to the public
-> This repo is for Kodezi Extension documentation.
-> The code is not open source.
 
 [twitter-shield]: https://img.shields.io/twitter/follow/kodezihq?style=social
 [twitter-url]: https://twitter.com/kodezihq
